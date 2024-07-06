@@ -17,7 +17,7 @@ Our mission is to:
 ## Upcoming Hackathons
 
 Explore our upcoming hackathons and join us in pushing the boundaries of technology and creativity:
-N.A.
+- **Hackathon - 1**: 12 July 2024 to 13 July 2024 - [Register](https://docs.google.com/forms/d/1BnNYQy359fdcKpLToLXfN0sISjWAUEIRKVTfn0ikdwQ)
 
 ## How to Participate
 

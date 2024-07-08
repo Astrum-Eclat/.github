@@ -25,12 +25,12 @@ Join us in our next hackathon:
 
 - **Participants**: Register for our hackathons and showcase your skills.
 - **Sponsors**: Support our hackathons and gain exposure to a talented pool of innovators.
-- **Collaborators**: Interested in partnering with us? Contact us at [astrumeclat@outlook.com](mailto:astrumeclat@outlook.com).
+- **Collaborators**: Interested in partnering with us? Contact us at [astrumeclat@gmail.com](mailto:astrumeclat@gmail.com).
 
 ## Contact Us
 
 For inquiries, collaborations, or more information about Astrum Éclat Hackathons, reach out to us:
 
-- Email: [astrumeclat@outlook.com](mailto:astrumeclat@outlook.com)
+- Email: [astrumeclat@gmail.com](mailto:astrumeclat@gmail.com)
 
 ---
